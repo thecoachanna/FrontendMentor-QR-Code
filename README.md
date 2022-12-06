@@ -23,4 +23,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Website - [Anna Nettles](https://anna-nettles-dev.herokuapp.com/)
 - Frontend Mentor - [@thecoachanna](https://www.frontendmentor.io/profile/thecoachanna)
-# FrontendMentor-QR-Code
+
